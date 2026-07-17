@@ -1,0 +1,236 @@
+{
+  "appTitle": "EL7OUT",
+  "guestModeBanner": "Continue as guest",
+  "signInToContinue": "Welcome back. Sign in to continue.",
+  "signInSubtitle": "Your bag is saved. Sign in or create an account to complete your purchase.",
+  "completeYourOrder": "Complete your order",
+  "email": "Email",
+  "password": "Password",
+  "fullName": "Full name",
+  "signIn": "Sign in",
+  "register": "Register",
+  "createAccount": "Create account",
+  "signInAndContinue": "Sign in and continue",
+  "createAccountAction": "Create account",
+  "forgotPassword": "Forgot password?",
+  "dontHaveAccount": "Don't have an account? ",
+  "home": "Home",
+  "shop": "Shop",
+  "saved": "Saved",
+  "bag": "Bag",
+  "account": "Account",
+  "settings": "Settings",
+  "notifications": "Notifications",
+  "orders": "Orders",
+  "wishlist": "Wishlist",
+  "cart": "Cart",
+  "checkout": "Checkout",
+  "search": "Search",
+  "newArrivals": "New arrivals",
+  "exploreCollection": "Explore collection",
+  "viewAll": "View all",
+  "shopNow": "Shop now",
+  "explore": "Explore",
+  "myBag": "My bag",
+  "myBagCount": "My bag ({count})",
+  "@myBagCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "emptyWishlist": "Your saved list is empty",
+  "emptyWishlistSubtitle": "Save items you love for later.",
+  "emptyCart": "Your bag is empty",
+  "emptyCartSubtitle": "Add items to your bag to continue.",
+  "emptyNotifications": "No notifications",
+  "emptyOrders": "No orders yet",
+  "language": "Language",
+  "darkMode": "Dark mode",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "currency": "Currency",
+  "pushNotifications": "Push notifications",
+  "selectLanguage": "Select language",
+  "selectCurrency": "Select currency",
+  "selectTheme": "Select theme",
+  "arabic": "Arabic",
+  "english": "English",
+  "appearance": "Appearance",
+  "preferences": "Preferences",
+  "about": "About",
+  "privacyPolicy": "Privacy policy",
+  "terms": "Terms",
+  "termsOfService": "Terms of service",
+  "contactUs": "Contact us",
+  "version": "Version",
+  "logout": "Logout",
+  "signOut": "Sign out",
+  "retry": "Retry",
+  "required": "Required",
+  "validEmail": "Enter a valid email",
+  "passwordLength": "Minimum 6 characters",
+  "nameLength": "Enter your name",
+  "close": "Close",
+  "save": "Save",
+  "cancel": "Cancel",
+  "ok": "OK",
+  "loading": "Loading",
+  "networkError": "Network error. Please try again.",
+  "orderSummary": "Order summary",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "total": "Total",
+  "free": "Free",
+  "secureCheckout": "Secure checkout",
+  "proceedToCheckout": "Proceed to checkout",
+  "addForFreeShipping": "Add {amount} for free shipping",
+  "@addForFreeShipping": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "continueShopping": "Continue shopping",
+  "placeOrder": "Place order",
+  "viewOrders": "View orders",
+  "orderPlaced": "Order placed!",
+  "orderPlacedMessage": "Thank you! Your order has been confirmed.",
+  "orderPlacedWithId": "Thank you! Your order #{id} has been confirmed.",
+  "@orderPlacedWithId": {
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "startShopping": "Start shopping",
+  "orderDetails": "Order details",
+  "orderNotFound": "Order not found.",
+  "items": "Items",
+  "shippingTo": "Shipping to",
+  "paymentSummary": "Payment summary",
+  "orderCancelled": "Order cancelled",
+  "itemsCount": "{count, plural, =0{No items} =1{1 item} other{{count} items}}",
+  "@itemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "placed": "Placed",
+  "pending": "Pending",
+  "confirmed": "Confirmed",
+  "processing": "Processing",
+  "shipped": "Shipped",
+  "delivered": "Delivered",
+  "cancelled": "Cancelled",
+  "addressLine1": "Address line 1",
+  "addressLine2": "Address line 2 (optional)",
+  "city": "City",
+  "state": "State",
+  "postalCode": "Postal code",
+  "country": "Country",
+  "phoneNumber": "Phone number",
+  "phoneNumberError": "Enter a valid phone number",
+  "paymentMethod": "Payment method",
+  "cashOnDelivery": "Cash on delivery",
+  "card": "Card",
+  "guestProfileTitle": "You are browsing as a guest",
+  "guestProfileSubtitle": "Sign in to access your orders, wishlist, and personalized recommendations.",
+  "myOrders": "My orders",
+  "addresses": "Addresses",
+  "paymentMethods": "Payment methods",
+  "payment": "Payment",
+  "memberBadge": "EL7OUT member",
+  "trackAndManage": "Track & manage",
+  "savedItems": "Saved items",
+  "updatesAndOffers": "Updates & offers",
+  "shippingInfo": "Shipping info",
+  "cardsAndMethods": "Cards & methods",
+  "appPreferences": "App preferences",
+  "signInButton": "Sign in",
+  "createAccountButton": "Create account",
+  "searchHint": "Search brands, products, styles...",
+  "recentSearches": "Recent searches",
+  "popularSearches": "Popular searches",
+  "trendingSearches": "Trending searches",
+  "noResults": "No results found",
+  "noResultsFor": "No results for \"{query}\"",
+  "@noResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "tryDifferentKeywords": "Try different keywords or browse our categories.",
+  "categories": "Categories",
+  "productNotFound": "Product not found.",
+  "addedToBag": "Added to your bag",
+  "viewBag": "View bag",
+  "color": "Color",
+  "size": "Size",
+  "outOfStock": "Out of stock",
+  "addToBag": "Add to bag",
+  "readMore": "Read more",
+  "showLess": "Show less",
+  "reviews": "Reviews",
+  "sizeGuide": "Size guide",
+  "freeReturns": "Free returns",
+  "authentic": "Authentic",
+  "securePay": "Secure pay",
+  "itemDetails": "{size} · {color} · x{quantity}",
+  "@itemDetails": {
+    "placeholders": {
+      "size": {
+        "type": "String"
+      },
+      "color": {
+        "type": "String"
+      },
+      "quantity": {
+        "type": "int"
+      }
+    }
+  },
+  "itemsLabel": "{count} items",
+  "@itemsLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "today": "Today",
+  "justNow": "Just now",
+  "daysAgo": "{count}d ago",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "{count}h ago",
+  "@hoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "minutesAgo": "{count}m ago",
+  "@minutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}
